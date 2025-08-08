@@ -1,4 +1,4 @@
-1. Overview
+1. Overview :-
 This project is a Console-Based Student Report Card System implemented in C++ using Object-Oriented Programming and core Data Structures and Algorithms (DSA) concepts.
 
 2. Features
